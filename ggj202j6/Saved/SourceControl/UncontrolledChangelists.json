@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chungus/git/unreal/ggj202j6/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/chungus/git/unreal/ggj202j6/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/chungus/git/unreal/ggj202j6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/chungus/git/unreal/ggj202j6/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
