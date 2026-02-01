@@ -5,11 +5,12 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"Enabled": true
 		}
 	]
 }
